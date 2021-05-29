@@ -1,15 +1,13 @@
-<h1 align="center">Hi 👋, I'm Erivelto Muller</h1>
-<h3 align="center">FullStack developer</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=erivelto47&label=Profile%20views&color=0e75b6&style=flat" alt="erivelto47" /> 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=erivelto47&label=Profile%20views&color=0e75b6&style=flat" alt="erivelto47" /> </p>
-
-
+</p> <h1 align="center">Hi 👋, I'm Erivelto Muller</h1> 
+<h3 align="center">FullStack developer</h3> 
 
 - 🌱 I’m currently learning **React, Spring, Angular**
-- 📝 I regularly write articles on [https://eriveltomuller.medium.com](https://eriveltomuller.medium.com)
+- 📝 I'm not regularly write articles on [Medium](https://eriveltomuller.medium.com)
 - 💬 Ask me about **Java, Typescript**
 - 📫 How to reach me **erivelto02@hotmail.com**
-- 📄 Know about my experiences [https://www.linkedin.com/in/erivelto-muller/](https://www.linkedin.com/in/erivelto-muller/)
+- 📄 Know about my experiences [linkedin](https://www.linkedin.com/in/erivelto-muller/)
 
 <br>
 
@@ -34,9 +32,6 @@
 <a href="https://linkedin.com/in/erivelto-muller" target="blank">
   <img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="erivelto-muller" height="30" width="40" />
 </a>
-<a href="mailto:erivelto02@hotmail.com" target="blank">
-  <img align="center" src="https://cdn.worldvectorlogo.com/logos/outlook-icon.svg" alt="@eriveltomuller" height="30" width="40" />
-  </a>
 </p>
 
 
