@@ -11,14 +11,14 @@
 - 📫 How to reach me **erivelto02@hotmail.com**
 - 📄 Know about my experiences [https://www.linkedin.com/in/erivelto-muller/](https://www.linkedin.com/in/erivelto-muller/)
 
-<hr>
+<br>
 
 
-<table cellspacing="0" cellspading="0">
+<table>
   <tr> 
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=erivelto47&show_icons=true&locale=en&theme=vue" alt="erivelto47"/>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=erivelto47&theme=vue" alt="erivelto47"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=erivelto47&show_icons=true&locale=en&theme=vue" alt="erivelto47"/>
      </td>
     <td width="50%">
        <img width="85%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=erivelto47&show_icons=true&locale=en&theme=vue" alt="erivelto47"/>
@@ -26,10 +26,13 @@
   </tr>
 </table>
 
+<hr>
 
 ### Blogs posts
 
-<hr>
+ <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@eriveltomuller/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@eriveltomuller/0" alt="Recent Article 0"> 
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
