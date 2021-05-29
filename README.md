@@ -13,18 +13,13 @@
 
 <br>
 
+<div>
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=erivelto47&theme=vue" alt="erivelto47"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=erivelto47&show_icons=true&locale=en&theme=vue" alt="erivelto47"/>
+  <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs?username=erivelto47&show_icons=true&locale=en&theme=vue" alt="erivelto47"/>
+</div>
 
-<table>
-  <tr> 
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=erivelto47&theme=vue" alt="erivelto47"/>
-      <img src="https://github-readme-stats.vercel.app/api?username=erivelto47&show_icons=true&locale=en&theme=vue" alt="erivelto47"/>
-     </td>
-    <td width="50%">
-       <img width="85%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=erivelto47&show_icons=true&locale=en&theme=vue" alt="erivelto47"/>
-    </td>
-  </tr>
-</table>
+<br>
 
 <hr>
 
