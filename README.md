@@ -4,7 +4,6 @@
 <h3 align="center">FullStack developer</h3> 
 
 - 🌱 I’m currently learning **React, Spring, Angular**
-- 📝 I'm not regularly write articles on [Medium](https://eriveltomuller.medium.com)
 - 💬 Ask me about **Java, Typescript**
 - 📫 How to reach me **erivelto02@hotmail.com**
 - 📄 Know about my experiences [linkedin](https://www.linkedin.com/in/erivelto-muller/)
